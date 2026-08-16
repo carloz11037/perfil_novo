@@ -17,26 +17,11 @@
 
 ## Olá, sou Carlos! 👋
 
-Sou Carlos Daniel, tenho 19 anos e sou estudante de Sistemas de Informação. Tenho uma grande paixão por dados e IA, sou altamente engajado com inovação tecnológica e aprendizado contínuo, e venho trabalhando em projetos de análise, limpeza, interpretação e pipelines de dados.
+Sou Carlos Daniel, tenho 19 anos e sou estudante de Sistemas de Informação (2/8). Tenho uma grande paixão por dados e IA, sou altamente engajado com inovação tecnológica e aprendizado contínuo, e venho trabalhando em projetos de análise, limpeza, interpretação e pipelines de dados.
 
 - 🔭 Trabalhando em projetos pessoais e aprendizado autodidata.
 - 📚 Atualmente aprendendo Python e SQL.
 - ⚡ Gosto de filmes e puzzles.
-
----
-
-## 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>📊 Dashboard Interativo de Dados</h3>
-      <p>Desenvolvimento de um painel gerencial interativo com as principais métricas de uma empresa de delivery, hospedado em um ambiente Cloud e disponibilizado através de um link web.</p>
-      <p>🔧 <i>Python, Pandas, NumPy, Plotly, Streamlit</i></p>
-      <a href="https://github.com/andressammendes/delivery_logistics_analysis-curry_company"><b>Ver Projeto →</b></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
