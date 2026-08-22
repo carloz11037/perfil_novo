@@ -4,7 +4,7 @@
 
 <h1 align="center">Carlos Daniel</h1>
 <p align="center">
-  <b>Estudante de Engenharia de Dados</b>
+  <b>Estudante da área de Dados com foco em Engenharia de Dados</b>
 </p>
 
 <!--
